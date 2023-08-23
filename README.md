@@ -1,1 +1,1 @@
-"# API-Rick-And-Morty-JS" 
+# API-Rick-And-Morty-JS
